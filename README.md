@@ -10,3 +10,24 @@ Table of Contents
 4. Data Source
 5. Results
 6. Conclusion
+
+
+# Project Overview
+
+The code is divided into two main parts:
+
+Data preprocessing:
+This section includes loading the dataset, cleaning and transforming the data, and extracting relevant information for analysis. This is done using pandas, numpy, and other libraries.
+
+Data analysis and visualization:
+This section involves using various data analysis techniques and libraries such as matplotlib and seaborn to analyze and visualize the data. The analysis includes insights such as popular cuisines, delivery time trends, and top restaurant chains, among others. Installation To run the code, you will need to have Python 3 and the following libraries installed:
+
+1. pandas
+
+2. matplotlib
+
+3. seaborn
+
+You can install these libraries by running the following command:
+
+pip install pandas matplotlib seaborn
