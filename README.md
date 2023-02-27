@@ -95,3 +95,13 @@ A bar chart was created to show the average cost per person by location. The cha
 6. Average Rating by Cost Category
 
 A box plot was created to show the average rating by cost category. The plot showed that the high-cost restaurants had a slightly higher average rating than the medium and low-cost restaurants.
+
+# Conclusion
+
+After analyzing the Swiggy Bangalore outlet details dataset, it can be concluded that the majority of restaurants fall into the medium cost category, with 58.7% of all restaurants having an average cost per person between ₹200-₹500. Indian cuisine is the most popular cuisine, followed by North Indian and Chinese cuisines. Interestingly, the average cost per person for restaurants serving North Indian and Chinese cuisines is higher than the average cost per person for restaurants serving Indian cuisine.
+
+The average rating for all restaurants in Bangalore is 3.5, with the highest rated cuisines being Continental, French, and Italian. Additionally, it can be observed that the number of restaurants is highest in the BTM layout location, followed by HSR layout and Koramangala 5th Block.
+
+Furthermore, the analysis revealed that the majority of restaurants have an average rating between 3.0 and 4.0. The highest-rated restaurants fall into the high cost category, with an average rating of 4.1. In contrast, restaurants falling into the low cost category have the lowest average rating of 3.3.
+
+Overall, the analysis suggests that Bangaloreans prefer medium cost restaurants serving Indian cuisine. However, restaurants serving cuisines such as Continental, French, and Italian have a higher average rating and may be worth exploring for those seeking a more upscale dining experience.
