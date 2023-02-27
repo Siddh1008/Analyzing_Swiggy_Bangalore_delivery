@@ -17,7 +17,7 @@ Table of Contents
 The code is divided into two main parts:
 
 Data preprocessing:
-This section includes loading the dataset, cleaning and transforming the data, and extracting relevant information for analysis. This is done using pandas, numpy, and other libraries.
+This section includes loading the dataset, cleaning and transforming the data, and extracting relevant information for analysis. This is done using pandas, numpy, and other libraries.ineuron internship
 
 Data analysis and visualization:
 This section involves using various data analysis techniques and libraries such as matplotlib and seaborn to analyze and visualize the data. The analysis includes insights such as popular cuisines, delivery time trends, and top restaurant chains, among others. Installation To run the code, you will need to have Python 3 and the following libraries installed:
@@ -38,7 +38,7 @@ To run the code, simply open the notebook in Jupyter or any other compatible env
 
 # Data Source
 
-The dataset used in this project is sourced from the ineuron internship and is available here. It contains information about food delivery orders from Swiggy in Bangalore, India.
+The dataset used in this project is sourced from the https://internship.ineuron.ai/  and is available. It contains information about food delivery orders from Swiggy in Bangalore, India.
 
 # Results
 
